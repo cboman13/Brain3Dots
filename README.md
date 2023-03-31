@@ -2,6 +2,8 @@
 
 [Brain Dots](https://play.google.com/store/apps/details?id=jp.co.translimit.braindots&hl=en_US&gl=US) but in 3D developed with Unreal Engine 5
 
+[Demo Video](https://drive.google.com/file/d/1exytuF2sBMgQhX85s4TV2QcTcUQfSHXK/view?usp=share_link)
+
 ## Gameplay
 ### How to Play
 Make the to balls meet! Move your player around, place some objects, and utilize your imaginative power!
