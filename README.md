@@ -19,3 +19,8 @@ Make the to balls meet! Move your player around, place some objects, and utilize
 - `Start`: Start the simulation (physics)
 - `End`: Go back to drawing mode (objects will be returned to the original location before the simulation starts)
 - `Reset`: Restart the level
+
+# Known Issues
+- Drawn objects will sometimes overlap
+- Drawn objects will not turn red when it's spawn at where an object exists
+- Game will crash when the player falls out of the map
